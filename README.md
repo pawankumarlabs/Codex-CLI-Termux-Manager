@@ -48,4 +48,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/pawankumarlabs/codex-termux-manager.git
 cd codex-termux-manager
-codex-termux-installer.sh
+bash codex-termux-installer.sh
